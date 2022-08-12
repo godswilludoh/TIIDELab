@@ -1,4 +1,5 @@
 /** Regex Validate Mail */
+/** A function that accepts an email input, checks its validity and outputs a partially hidden email in a alert message*/
 
 function validateEmail() {
 	alert('Welcome Client!');
